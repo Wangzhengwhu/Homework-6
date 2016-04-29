@@ -46,7 +46,7 @@ class cannon:
         plot(x,y,"purple")
         xlabel('l/m')
         ylabel('H/m')
-        text(5000,120, 'withoutdrag')
+      
         #show()
 
 
@@ -70,15 +70,15 @@ class drag_cannon(cannon):
         plot(x,y,"blue")
         xlabel('l/m')
         ylabel('H/m')
-        text(5000, 80, 'withdrag')
+      
         #show()
 
 
 
-a = cannon(flight_state(0, 0, 700, 55, 0), _dt = 0.1)
+a = cannon(flight_state(0, 0, 506, 203, 0), _dt = 0.1)
 a.shoot()
 a.show_trajectory()
-b = drag_cannon(flight_state(0, 0, 700, 55, 0), _dt = 0.1)
+b = drag_cannon(flight_state(0, 0, 506, 203, 0), _dt = 0.1)
 b.shoot()
 b.show_trajectory()
 
