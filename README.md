@@ -11,6 +11,7 @@ d^2x/dt^2=-fx
 d^2y/dt^2=-fy-g  
 同样可以用欧拉法来解决，因为是二阶微分方程，我们可以把二阶微分方程分解为两个一阶微分方程，参考书上给出的方程，进行在五空气阻力和有空气阻力时依据角度的不同进行对比。  
 [程序](https://github.com/Wangzhengwhu/Homework-6/blob/master/1.py)  
+其中紫色的为无空气阻力的情况，蓝色的为恒定空气阻力的情况。  
 
 给出在初速度为vx=400m/s,vy=400m/s，发射角度在45°时，炮弹在有无空气阻力下的对比。  
 ![发射角度45°](https://github.com/Wangzhengwhu/Homework-6/blob/master/45.png)  
@@ -19,6 +20,7 @@ d^2y/dt^2=-fy-g
 ![发射角度63.43°](https://github.com/Wangzhengwhu/Homework-6/blob/master/63.png)  
 给出在初速度为vx=506m/s,vy=253m/s，发射角度在26.57°时，炮弹在有无空气阻力下的对比。  
 ![发射角度26.57°](https://github.com/Wangzhengwhu/Homework-6/blob/master/23.png)  
+
 
 
 
