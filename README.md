@@ -18,7 +18,7 @@ d^2y/dt^2=-fy-g
 给出在初速度为vx=253m/s,vy=506m/s，发射角度在63.43°时，炮弹在有无空气阻力下的对比。  
 ![发射角度63.43°](https://github.com/Wangzhengwhu/Homework-6/blob/master/63.png)  
 给出在初速度为vx=506m/s,vy=253m/s，发射角度在26.57°时，炮弹在有无空气阻力下的对比。  
-![发射角度26.57°](https://github.com/Wangzhengwhu/Homework-6/blob/master/26.png)  
+![发射角度26.57°](https://github.com/Wangzhengwhu/Homework-6/blob/master/23.png)  
 
 
 
