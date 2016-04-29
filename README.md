@@ -20,6 +20,10 @@ d^2y/dt^2=-fy-g
 ![发射角度63.43°](https://github.com/Wangzhengwhu/Homework-6/blob/master/63.png)  
 给出在初速度为vx=506m/s,vy=253m/s，发射角度在26.57°时，炮弹在有无空气阻力下的对比。  
 ![发射角度26.57°](https://github.com/Wangzhengwhu/Homework-6/blob/master/23.png)  
+##结论
+从图中可以看出在无空气阻力时，当发射角为45°是射程最远，存在空气阻力的情况下，炮弹射程与不存在空气阻力相差很多。在对称的发射角下，角度越小，受到空气阻力的影响越小。
+##致谢
+感谢张爽同学提供的程序
 
 
 
